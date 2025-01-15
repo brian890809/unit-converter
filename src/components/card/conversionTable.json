@@ -1,0 +1,20 @@
+{
+    "mass" : {
+        "milligram" : 1000,
+        "gram" : 1,
+        "kilogram" : 0.001,
+        "ounce" : 0.035274,
+        "pound" : 0.00220462
+    },
+    "length" : {
+        "millimeter" : 1000,
+        "centimeter" : 100,
+        "meter" : 1,
+        "kilometer" : 0.001,
+        "inch" : 39.3701,
+        "foot" : 3.28084,
+        "yard" : 1.09361,
+        "mile" : 0.000621371
+
+    }
+}
